@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 15,
         paddingVertical: 20,
         borderColor: 'purple',
-        borderBottomWidth: 1
+        borderTopWidth: 1
     },
     title: {
         fontSize: 18
